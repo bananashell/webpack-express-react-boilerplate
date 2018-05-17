@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 
 // app.get("/", (req, res) => {
 //   // let rootClientPath = path.join(__dirname, '..', 'client');
-//   res.send("hejsna");
+//   res.send("hejsan");
 //   // res.send(path.join(rootClientPath, 'index.html'));
 //   // res.sendFile('index.html', {root: rootClientPath});
 // });
