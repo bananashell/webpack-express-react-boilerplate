@@ -1,5 +1,5 @@
 import { Router } from "express";
-import products from '../products'
+import products from 'routes/products'
 let router = Router();
 
 router.use('/products', products);
